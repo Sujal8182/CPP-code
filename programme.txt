@@ -1,0 +1,15 @@
+1. what is programming ?
+Ans. programming is set of instructions of any specific event or task with each step to solution to the code.
+
+2. what is a translator in programming?
+Ans.  Translator in programming which coverts the code into computer language as a binary code because the coding language is human language and binary is understanding of computer language.
+
+3. Types of translators in C and C++ ?
+Ans. There are two types of translator .  1. Interpreter 2. Compiler
+        1. Interpreter is a translator which translates the whole code one by one and line by line.
+        2. Compiler translator converts the whole code in a one file as whole.        
+
+4. Diff btw compiler and interpreter?
+Ans.  1. Compiler translates the whole code directly into binary and instead the interpreter translates the code one by one
+      2. C++ is compiler language but python is interpreter language
+      3. interpreter language is more preferable because of it specific line reading and compiler reads the whole data.
